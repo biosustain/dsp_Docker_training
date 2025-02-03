@@ -13,8 +13,6 @@ And remember to ask questions during the Data Club or over lunch, you can always
 about
 ```
 
-```
-
 ```{toctree}
 :maxdepth: 2
 :hidden:
